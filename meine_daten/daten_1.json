@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Koffi",
+        "alter": 50,
+        "beruf": "Artist"
+    },
+    {
+        "name": "Eto'o",
+        "alter": 70,
+        "beruf": "Fussballer"
+    },
+    {
+        "name": "Lula Da silva",
+        "alter": 76,
+        "beruf": "Präsident"
+    },
+    {
+        "name": "Florence",
+        "alter": "31",
+        "beruf": "Krankenschwester"
+    }
+]
